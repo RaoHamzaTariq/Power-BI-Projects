@@ -26,6 +26,14 @@ The Traffic Management Dashboard provides comprehensive insights into traffic ac
 6. **Vehicle Type-specific Initiatives**: Tailor safety initiatives to address challenges posed by different vehicle types.
 7. **Time-of-Month Vigilance**: Heighten vigilance and enforcement during the first 5 days of each month.
 
+## Dashboard Overview:
+The overview of dashboard is:
+### Light Mode:
+![Traffic Accident Dashboard - Light Mode](https://github.com/RaoHamzaTariq/Power-BI-Projects/assets/147372279/37c2a1bc-8ccf-4782-b555-dcd113b8c9de)
+
+### Dark Mode:
+![Traffic Accident Dashboard - Dark Mode](https://github.com/RaoHamzaTariq/Power-BI-Projects/assets/147372279/c5bf557d-b112-423e-876f-a7cc153f27bd)
+
 ## Disclaimer:
 The dashboard is based on the dataset provided in this folder. While efforts were made for accuracy, the authors cannot guarantee absolute accuracy. Users should verify information from additional sources if needed. The authors are not liable for errors or actions taken based on this data.
 
