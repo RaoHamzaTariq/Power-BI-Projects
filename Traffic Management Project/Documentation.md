@@ -2,7 +2,7 @@
 # Traffic Management Dashboard
 
 ## Project Overview:
-The Traffic Management Dashboard provides comprehensive insights into traffic accidents, offering analysis on total accidents, casualties, contributing factors, accident trends over time, and patterns related to vehicles, streets, and accident occurrences.
+The Traffic Management Dashboard provides comprehensive and useful insights into traffic accidents, offering analysis on total accidents, casualties, contributing factors, accident trends over time, and patterns related to vehicles, streets, and accident occurrences.
 
 ## Insights:
 - Total accidents: 238,420
