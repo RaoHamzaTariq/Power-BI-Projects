@@ -9,22 +9,19 @@ Welcome to the Power BI Projects Repository! This repository showcases various P
    - **Description**: A comprehensive dashboard providing insights into traffic accidents, including total accidents, casualties, contributing factors, accident trends, and more.
    - **Features**: Analysis of total accidents, casualties, contributing factors, trends over time, top accident-prone streets, and vehicle involvement.
    - **Usage**: Instructions for using the dashboard are provided in the README.md file of the Traffic Management Dashboard folder.
-   - **Dependencies**: Any dependencies required for the dashboard are listed in the README.md file of the Traffic Management Dashboard folder.
 
 2. **Marketing Campaigns Dashboard**
    - **Folder**: `/Marketing Campaigns Project`
    - **Description**: An analytical dashboard presenting key metrics related to marketing campaigns, including customer demographics, revenue, web activity, and campaign performance.
    - **Features**: Analysis of customer demographics, revenue, complaints, web activity, top customers, and successful campaigns.
    - **Usage**: Instructions for exploring the dashboard are outlined in the README.md file of the Marketing Campaigns Dashboard folder.
-   - **Dependencies**: Any dependencies needed for the dashboard are detailed in the README.md file of the Marketing Campaigns Dashboard folder.
 
 3. **Apple Environmental Emission Dashboard**
    - **Folder**: `/Apple Environmental Emission Project`
    - **Description**: An environmental dashboard focused on Apple's carbon emissions, removal efforts, product footprint, employee initiatives, and recommendations for emission reduction.
    - **Features**: Analysis of carbon emissions, removal efforts, emission categories, product footprint, employee initiatives, and emission reduction recommendations.
    - **Usage**: Instructions for utilizing the dashboard can be found in the README.md file of the Apple Environmental Emission Dashboard folder.
-   - **Dependencies**: Any dependencies required for the dashboard are specified in the README.md file of the Apple Environmental Emission Dashboard folder.
-
+   - 
 ## Usage
 
 To explore any of the projects in this repository, follow these steps:
