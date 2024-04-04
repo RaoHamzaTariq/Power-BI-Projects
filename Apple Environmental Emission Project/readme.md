@@ -1,4 +1,4 @@
-# Apple Environmental Emission Dashboard
+# Apple Environmental Emission Report
 
 ## Project Overview 
 The Apple Environmental Emission Dashboard provides insights into Apple's environmental impact, focusing on metrics such as total carbon emissions, carbon removal, emission reduction opportunities, emission breakdown by category, market capitalization, environmental initiatives, emissions by scope and fiscal year, product footprint, employee engagement, top emissions sectors, and more.
