@@ -34,6 +34,8 @@ These insights and recommendations aim to guide hospitals in their efforts to en
 ## Dashboard Overview:
 The overview of dashboard is:
 
+**Youtube Video Link**: [HealthCare Patient Reviews Dashboard](https://www.youtube.com/watch?v=mSYfK0Q6nCM&list=PLL4HfDtGZlnp3JlHrY4kA8OyJOjjIgWjO&index=3)
+
 ### Intro:
 ![1](https://github.com/RaoHamzaTariq/Power-BI-Projects/assets/147372279/993528ed-ff44-4387-87f9-a507fa633d45)
 ### Patient Survey Analysis:
