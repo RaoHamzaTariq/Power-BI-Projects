@@ -4,8 +4,8 @@ Welcome to the Power BI Projects Repository! This repository showcases various P
 
 ## Projects
 
-1. **Traffic Management Dashboard**
-   - **Folder**: `/Traffic Management Project`
+1. **Traffic Accidents Dashboard**
+   - **Folder**: `/Traffic Accidents Project`
    - **Description**: A comprehensive dashboard providing insights into traffic accidents, including total accidents, casualties, contributing factors, accident trends, and more.
    - **Features**: Analysis of total accidents, casualties, contributing factors, trends over time, top accident-prone streets, and vehicle involvement.
    - **Usage**: Instructions for using the dashboard are provided in the README.md file of the Traffic Management Project folder.
