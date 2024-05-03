@@ -26,7 +26,7 @@ Welcome to the Power BI Projects Repository! This repository showcases various P
    - **Folder**: `/HealthCare Patient Reviews Project`
    - **Description**: Healthcare dashboard focused on  communication about medicine, untapped opportunities, declining HCAHPS scores and response rate.
    - **Features**: Analysis of patient survey, communication about medicine, untapped opportunities, declining HCAHPS scores and response rate.
-   - **Usage**: Instructions for utilizing the dashboard can be found in the README.md file of the Apple Environmental Emission Project folder.
+   - **Usage**: Instructions for utilizing the dashboard can be found in the README.md file of the HealthCare Patient Reviews Project folder.
   
 3. **Sales Analysis Dashboard**
    - **Folder**: `/Sales Analysis Project`
