@@ -2,7 +2,7 @@
 # Traffic Accidents Dashboard
 
 ## Project Overview:
-The Traffic Management Dashboard provides comprehensive and useful insights into traffic accidents, offering analysis on total accidents, casualties, contributing factors, accident trends over time, and patterns related to vehicles, streets, and accident occurrences.
+The Traffic Accidents Dashboard provides comprehensive and useful insights into traffic accidents, offering analysis on total accidents, casualties, contributing factors, accident trends over time, and patterns related to vehicles, streets, and accident occurrences.
 
 ## Insights:
 - Total accidents: 238,420
@@ -38,7 +38,7 @@ The overview of dashboard is:
 The dashboard is based on the dataset provided in this folder. While efforts were made for accuracy, the authors cannot guarantee absolute accuracy. Users should verify information from additional sources if needed. The authors are not liable for errors or actions taken based on this data.
 
 ## License:
-This Traffic Management Dashboard is licensed under the Creative Commons Attribution 4.0 International License.
+This Traffic Accidents Dashboard is licensed under the Creative Commons Attribution 4.0 International License.
 
 ## Author
 - Rao Hamza Tariq
@@ -50,6 +50,6 @@ This Traffic Management Dashboard is licensed under the Creative Commons Attribu
 Data sourced from [Maven Analytics](https://mavenanalytics.io/challenges/drive-safe-challenge/22).
 
 ## Conclusion:
-The Traffic Management Dashboard offers critical insights into traffic accidents, aiding in the development of targeted strategies to improve road safety and reduce accidents. Understanding the identified patterns and factors is essential for effective traffic management initiatives.
+The Traffic Accidents Dashboard offers critical insights into traffic accidents, aiding in the development of targeted strategies to improve road safety and reduce accidents. Understanding the identified patterns and factors is essential for effective traffic management initiatives.
 
 For more information or inquiries, contact the development team or designated support personnel.
